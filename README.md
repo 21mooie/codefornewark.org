@@ -8,7 +8,9 @@ Note: This site is hosted with GitHub pages and, as such, any changes you make t
 ## Updating content
 Most minor content updates can be made simply by making changes on your forked copy of this repository, then submitting a pull request. For example, following every event, the file `_layouts/home/cta.html` should **always** be updated to reflect the date of the next event.
 
-## Updating Call-to-Action for upcoming events
+*Note: If you have admin privileges to this GH org, you may committ your updates directly to the repository without forking your own copy, but do so with vigilance.*
+
+### Updating Call-to-Action for upcoming events
 The CTA block just below the hero image can be quickly updated fairly easily:
 
 1. Fork this repository to your own account if you haven't already.
@@ -18,7 +20,14 @@ The CTA block just below the hero image can be quickly updated fairly easily:
 5. Come back to this repository, select `Pull Requests` and issue a `Pull Request` to merge your changes into the main repository.
 6. The changes then should automatically appear on the site in a few minutes!
 
-*Note: If you have admin privileges to this GH org, you may committ your updates directly to the repository without forking your own copy, but do so with vigilance.*
+### Finding pages to update -- structure of site
+
+Everything starts with `index.md` at the root level of the project structure. The layout of the home page (and other pages) is pulled in from the `_layouts` folder, and content is pulled in from `_includes` with `{% include <file-to-include> %}` statements. More information about how this works can be found in the [Jekyll documentation]( https://jekyllrb.com/docs/structure/).
+
+Some more tips for exploring the layout of the website:
+- Look for pages in the `pages` folder
+- Search the repo for the title of a page you see on the website.
+- Scan the `header.html` in `_includes/shared` which contains links to most of the pages on the site.
 
 MORE TK
 
@@ -55,11 +64,11 @@ or if you did the `bundle install` command with the path option
 `bundle exec jekyll build` 
 
 #### Serve the Pages
-`jekyll serve --watch  --baseurl '/'`
+`jekyll serve --watch`
 
 Or if you did the `bundle install` command with the path option
 
-`bundle exec jekyll serve --watch  --baseurl '/'`
+`bundle exec jekyll serve --watch`
 
 ### Hack Away
 
