@@ -218,6 +218,7 @@ button[type=submit] {
     border-radius: 4px;
     cursor: pointer;
     background-color: #45a049;
+    color:white;
 }
 
 input[type=submit]:hover {
