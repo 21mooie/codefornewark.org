@@ -11,17 +11,18 @@ permalink: /new-hackers/
 
 ### Things To Do
 <ol>
-    <li> <a href='https://www.youtube.com/watch?v=w3jLJU7DT5E'>Github 101</a>  </li>
-    <li> One more Github video explaining concepts </li>
+    <li> <a href='https://www.youtube.com/watch?v=w3jLJU7DT5E'>What is Github?</a>  </li>
+    <li><a href='https://www.youtube.com/watch?v=1h9_cB9mPT8&t=163s'>History and Difference between Git and Github</a> </li>
+    <li><a href='https://www.youtube.com/watch?v=_ALeswWzpBo'>Common Github Workflows</a> </li>
     <li> <a href='https://github.com'> Let's create a Github account! </a>
     <li> Let's fork this repository! </li>
-    <li> Let's download the Github desktop client </li>
-    <li> Let's talk about editors </li>
+    <li> <a href='https://desktop.github.com/'>Let's download the Github desktop client</a></li>
+    <li> <a href='https://www.youtube.com/watch?v=J-CCFzoVywY'>Let's talk about editors</a>(Disclaimer: These opinions are solely of the OP and you should find the text editor that best suits you) </li>
     <li> Pick your poison
         <ul>
-            <li> Atom </li>
-            <li> Visual Studio Code </li>
-            <li> Sublime Editor </li>
+            <li> <a href='https://code.visualstudio.com'>Visual Studio Code</a></li>
+            <li> <a href='https://atom.io'>Atom</a> </li>
+            <li> <a href='https://www.sublimetext.com'>Sublime Editor</a> </li>
         </ul>
     </li>
     <li> Pull code from forked repository </li>
