@@ -27,5 +27,5 @@ permalink: /new-hackers/
     </li>
     <li> Make changes to code based on information in README.md of project </li>
     <li> <a href='https://github.com/21mooie/small-web-projects'> Let's submit a pull request </a></li>
-    <li> Please fill out Survey </li>
+    <li> <a href='https://docs.google.com/forms/d/e/1FAIpQLSeig-UI6YfagGOhnj4g4Z7pYlaX_YhNXzag3vge4j6GaPmoHA/viewform'>Please fill out survey</a> </li>
 <ol>
