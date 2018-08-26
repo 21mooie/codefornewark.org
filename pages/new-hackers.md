@@ -65,6 +65,7 @@ permalink: /new-hackers/
             <a href='https://github.com/21mooie/small-web-projects' target="_blank"> Go to the repository here. </a>
             <br>
             Click on the fork button in the top right corner.
+            <img src="{{ "images/Fork_Screenshot.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
         </p>
     </li>
     <li>
@@ -94,7 +95,7 @@ permalink: /new-hackers/
     <li> 
         <h1> Edit website </h1>
         <p>
-            Make changes to code based on information in README.md of project. There are some things which need to be fixed. When finished, push your changes pack to your forked repository on Github.
+            Make changes to code based on information in README.md of project. There are some things which need to be fixed. When finished, push your changes back to your forked repository on Github.
         </p>
     </li>
     <li>
