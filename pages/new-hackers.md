@@ -23,7 +23,7 @@ It is important to know that there are two distinct but cooperating tools used b
 
 <iframe width="640" height="360" src='https://www.youtube.com/embed/1h9_cB9mPT8' frameborder="0" gesture="media" allowfullscreen></iframe><a href=''></a>
 
-#### A Common Git/Github Workflow </h1>
+#### A Common Git/Github Workflow
 
 This depicts a common way Git and Github are used in actual projects by developers. It walks you through different commands used by these tools. Look through these definitions as you watch the video below.
 
@@ -64,7 +64,7 @@ A text editor is to a software developer as a canvas to a painter. There are man
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/J-CCFzoVywY" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-#### Pick your poison </h1>
+#### Pick your poison
 
 - <a href='https://code.visualstudio.com' target="\_blank">Visual Studio Code</a>
 - <a href='https://atom.io' target="\_blank">Atom</a>
