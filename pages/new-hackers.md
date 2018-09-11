@@ -23,7 +23,7 @@ It is important to know that there are two distinct but cooperating tools used b
 
 <iframe width="640" height="360" src='https://www.youtube.com/embed/1h9_cB9mPT8' frameborder="0" gesture="media" allowfullscreen></iframe><a href=''></a>
 
-#### A Common Git/Github Workflow </h1>
+#### A Common Git/Github Workflow
 
 This depicts a common way Git and Github are used in actual projects by developers. It walks you through different commands used by these tools. Look through these definitions as you watch the video below.
 
@@ -48,7 +48,7 @@ Talk is cheap. Let's create our own Github account so we can start developing ou
 <a href='https://github.com/21mooie/small-web-projects' target="\_blank"> Go to the repository here. </a>
 
 Click on the fork button in the top right corner.
-<img src="{{ "images/Fork_Screenshot.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
+<img src="{{ "images/new-hacker-images/Fork_Screenshot.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
 
 #### The Github Desktop Client
 
@@ -58,21 +58,53 @@ Normally, developers will use the command line during development to invoke spec
 
 Login to your Github account with the desktop client then pull your repository down to your local machine.
 
+Once logged in, you will need to clone the repository that already exists on your Github account to your local computer so click the Clone a Repository button.
+
+
+<img src="{{ "images/new-hacker-images/Clone_Github_Repo_Screenshot.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
+
+Select the small-web-project repository, if you just created your Github account it should be the only project listed.
+
+<img src="{{ "images/new-hacker-images/Selecting_Repository.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
+
+Let's have a small break and enjoy this cat gif :)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+<img src="{{ "images/new-hacker-images/Clean_Project_View.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
+
+What we are looking at now is the project view. On the left panel, at the top, you see what the current project you are viewing is. Right now, it should say small-web-projects. To the right of that is the name of the branch you are currently on. This should say master.
+
+Underneath the current repo header, there should be a tab that says Changes, when this is selected, it will show all the changes that have been made in the project since the last tracked commit. To the right of that is History, this should show the complete history of commits from that branch. 
+
+<img src="{{ "images/new-hacker-images/History_View.png" | relative_url }}"  alt="Screenshot of Github Fork button" class="img-responsive"/>
+
+You now have Github Desktop installed and are ready to start editing your code. But wait ... we need an editor to do the editing.
+
 #### A Tale of three text editors
 
-A text editor is to a software developer as a canvas to a painter. There are many strong feelings in the community about what text editors need to be able to do well and which one is the (queue air quotes) <em> best </em>. Just so you know, there is no best editor, there is only the best <b> for you </b>. This video showcases three popular choices for text editors. Choose one so we can continue working on our website.
+A text editor is to a software developer as a canvas to a painter. There are many strong feelings in the community about what text editors need to be able to do well and which one is the (queue air quotes) <em> best </em>. Just so you know, there is no best editor, there is only the best <b> for you </b>. This video showcases three popular choices for text editors. Choose one so we can continue working on our website. At some point in time, it is recommended that you atleast try each of these options to get a better feel for what you like from a text editor.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/J-CCFzoVywY" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-#### Pick your poison </h1>
+#### Choose your Pokémon
 
-- <a href='https://code.visualstudio.com' target="\_blank">Visual Studio Code</a>
-- <a href='https://atom.io' target="\_blank">Atom</a>
-- <a href='https://www.sublimetext.com' target="\_blank">Sublime Editor</a>
+- <img src="{{ "images/new-hacker-images/squirtle.png" | relative_url }}"  alt="Image of Squirtle" class="img-responsive"/>
+<a href='https://code.visualstudio.com' target="\_blank">Visual Studio Code</a>
+<br>
+A very composed editor that has many features all included giving you the ability to be productive from initial download.
+
+- <img src="{{ "images/new-hacker-images/bulbasaur.png" | relative_url }}"  alt="Image of Bulbasaur" class="img-responsive"/>
+<a href='https://atom.io' target="\_blank">Atom</a>
+<br>
+Popular and used by developers all over, support for this editor is managed by Github itself, meaning help using this editor is always a quick Google search away.
+
+- <img src="{{ "images/new-hacker-images/charmander.png" | relative_url }}"  alt="Image of Charmander" class="img-responsive"/><a href='https://www.sublimetext.com' target="\_blank">Sublime Editor</a>
+<br>
+This editor is lightning fast and very small. It uses such little memory that you won't have to worry about using other computer resources during development.
 
 #### Edit website
 
-Make changes to code based on information in README.md of project. There are some things which need to be fixed. When finished, push your changes back to your forked repository on Github.
+Make changes to the code based on information in README.md of project. There are some things which need to be fixed. When finished, push your changes back to your forked repository on Github.
 
 #### Submit a pull request
 
