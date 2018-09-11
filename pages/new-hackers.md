@@ -82,15 +82,25 @@ You now have Github Desktop installed and are ready to start editing your code. 
 
 #### A Tale of three text editors
 
-A text editor is to a software developer as a canvas to a painter. There are many strong feelings in the community about what text editors need to be able to do well and which one is the (queue air quotes) <em> best </em>. Just so you know, there is no best editor, there is only the best <b> for you </b>. This video showcases three popular choices for text editors. Choose one so we can continue working on our website.
+A text editor is to a software developer as a canvas to a painter. There are many strong feelings in the community about what text editors need to be able to do well and which one is the (queue air quotes) <em> best </em>. Just so you know, there is no best editor, there is only the best <b> for you </b>. This video showcases three popular choices for text editors. Choose one so we can continue working on our website. At some point in time, it is recommended that you atleast try each of these options to get a better feel for what you like from a text editor.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/J-CCFzoVywY" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-#### Pick your poison
+#### Choose your Pokémon
 
-- <a href='https://code.visualstudio.com' target="\_blank">Visual Studio Code</a>
-- <a href='https://atom.io' target="\_blank">Atom</a>
-- <a href='https://www.sublimetext.com' target="\_blank">Sublime Editor</a>
+- <img src="{{ "images/new-hacker-images/squirtle.png" | relative_url }}"  alt="Image of Squirtle" class="img-responsive"/>
+<a href='https://code.visualstudio.com' target="\_blank">Visual Studio Code</a>
+<br>
+A very composed editor that has many features all included giving you the ability to be productive from initial download.
+
+- <img src="{{ "images/new-hacker-images/bulbasaur.png" | relative_url }}"  alt="Image of Bulbasaur" class="img-responsive"/>
+<a href='https://atom.io' target="\_blank">Atom</a>
+<br>
+Popular and used by developers all over, support for this editor is managed by Github itself, meaning help using this editor is always a quick Google search away.
+
+- <img src="{{ "images/new-hacker-images/charmander.png" | relative_url }}"  alt="Image of Charmander" class="img-responsive"/><a href='https://www.sublimetext.com' target="\_blank">Sublime Editor</a>
+<br>
+This editor is lightning fast and very small. It uses such little memory that you won't have to worry about using other computer resources during development.
 
 #### Edit website
 
